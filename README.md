@@ -7,7 +7,6 @@ Java Developer
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [mennig.justin@gmail.com](mailto:mennig.justin@gmail.com)
 * 🧠  I'm learning Spring Boot
-* 🤝  I'm open to collaborating on Game development
 
 ### Skills
 
