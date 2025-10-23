@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Java Developer
 --------------
 
-I started with Java during my first year learning application development at Elektronikschule Tettnang
-
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [mennig.justin@gmail.com](mailto:mennig.justin@gmail.com)
 * 🧠  I'm learning Spring Boot
